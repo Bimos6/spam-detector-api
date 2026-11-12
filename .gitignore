@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+myvenv/
+
+data/spam.csv
+data/*.db
+models/*.pkl
+models/*.json
+models/plots/
+
+.env
